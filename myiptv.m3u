@@ -5,8 +5,8 @@ https://citynewsregional.akamaized.net/hls/live/1017963/Regional_Live_6/master.m
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/F8wj8kW/Global-Toronto.png" group-title="Live",Global News Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 channel-id="US3900016OI-us" tvg-id="US3900016OI" tvg-chno="1004" tvg-name="The Judge Judy Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260714T040847SQUARE.png" group-title="United States",The Judge Judy Channel
-https://jmp2.uk/stvp-US3900016OI
+#EXTINF:-1 channel-id="US3900016OI-us" tvg-id="US3900016OI" tvg-chno="1004" tvg-name="Judge Judy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260714T040847SQUARE.png" group-title="United States",The Judge Judy Channel
+http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/559708.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66a1af9677649467da169f12" tvg-id="6a1610bebdf296985fd95603-66a1af9677649467da169f12" tvg-chno="" tvg-name="Mysterious Worlds" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73512c80-94bf-4f2a-bf54-18d3f6d1a41a/MysteriousWorlds_Logo_Dark_1500x1000.png" group-title="United States",Mysterious Worlds
 https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="24/7 Shows | Docu",Just for Laughs Gags
