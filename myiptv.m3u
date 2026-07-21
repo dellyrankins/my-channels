@@ -11,6 +11,10 @@ https://jmp2.uk/stvp-US3900016OI
 https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="24/7 Shows | Docu",Just for Laughs Gags
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/511775.jpg" group-title="24/7 Shows | Docu",24/7 Quantum Leap
+http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/511775.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/515214.jpg" group-title="24/7 Shows | Docu",24/7 Bruce Lee
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/515214.m3u8
 #EXTINF:-1  group-title="International",Naija Gold Reels
 https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Canada",123GO!
