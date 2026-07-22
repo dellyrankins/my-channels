@@ -33,6 +33,10 @@ http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/52856.m3u8
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/330859.m3u8
 #EXTINF:-1 channel-id="d0c6ac240cb8529992ee3340e5b7f102" tvg-id="d0c6ac240cb8529992ee3340e5b7f102" tvg-chno="378" tvg-name="Ebony" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d0c6ac240cb8529992ee3340e5b7f102/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774038479615_EbonyTV_HUDLogo_260x147_HexEFEFEF.png" group-title="Comedy",Ebony
 https://jmp2.uk/rok-d0c6ac240cb8529992ee3340e5b7f102.m3u8
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-69d93e13a5c870fb1e88f873" tvg-id="6a1610bebdf296985fd95603-69d93e13a5c870fb1e88f873" tvg-chno="" tvg-name="Living With Evil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8476d5ef-088a-4f8e-9cf3-e87184aad49c/LivingWithEvil_Logo_Dark_1500x1000.png" group-title="United States",Living With Evil
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d93e13a5c870fb1e88f873/?X-Plex-Token=zXRhswMxSphG9YpUs6pw
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-65829ef26b91be4547aa153a" tvg-id="6a1610bebdf296985fd95603-65829ef26b91be4547aa153a" tvg-chno="" tvg-name="World's Most Evil Killers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3669d89-4856-4b6e-9819-df6b6bfe1489/FilmRise_WorldsMostEvilKillers_Logo_Color.png" group-title="United States",World's Most Evil Killers
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65829ef26b91be4547aa153a/?X-Plex-Token=zXRhswMxSphG9YpUs6pw
 #EXTINF:-1  group-title="International",Naija Gold Reels
 https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Canada",123GO!
