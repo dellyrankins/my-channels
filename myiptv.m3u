@@ -11,25 +11,27 @@ http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/559708.m3u8
 https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="24/7 Shows | Docu",Just for Laughs Gags
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/511775.jpg" group-title="24/7 Shows | Docu",24/7 Quantum Leap
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/573315.jpg" group-title="24/7", Afro
+http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/573315.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/511775.jpg" group-title="24/7", Quantum Leap
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/511775.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/515214.jpg" group-title="24/7 Shows | Docu",24/7 Bruce Lee
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/515214.jpg" group-title="24/7", Bruce Lee
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/515214.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/30734.jpg" group-title="24/7 Shows | Docu",24/7 Cops
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/30734.jpg" group-title="24/7", Cops
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/30734.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/69317.jpg" group-title="24/7 Shows | Docu",24/7 Family Matters
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/69317.jpg" group-title="24/7", Family Matters
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/69317.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/81380.jpg" group-title="24/7 Shows | Docu",24/7 The Jeffersons
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/81380.jpg" group-title="24/7", The Jeffersons
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/81380.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/50859.jpg" group-title="24/7 Shows | Docu",24/7 Three's Company
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/50859.jpg" group-title="24/7", Three's Company
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/50859.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/511821.jpg" group-title="24/7 Shows | Docu",24/7 Sanford and Son
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/511821.jpg" group-title="24/7", Sanford and Son
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/511821.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/50187.jpg" group-title="24/7 Shows | Docu",24/7 Family Guy
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/50187.jpg" group-title="24/7", Family Guy
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/50187.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/52856.jpg" group-title="24/7 Shows | Docu",24/7 Ancient Aliens
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/52856.jpg" group-title="24/7", Ancient Aliens
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/52856.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/330859.jpg" group-title="24/7 Shows | Docu",24/7 History 101
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/330859.jpg" group-title="24/7", History 101
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/330859.m3u8
 #EXTINF:-1 channel-id="d0c6ac240cb8529992ee3340e5b7f102" tvg-id="d0c6ac240cb8529992ee3340e5b7f102" tvg-chno="378" tvg-name="Ebony" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d0c6ac240cb8529992ee3340e5b7f102/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774038479615_EbonyTV_HUDLogo_260x147_HexEFEFEF.png" group-title="24/7 Shows | Docu",Ebony
 https://jmp2.uk/rok-d0c6ac240cb8529992ee3340e5b7f102.m3u8
