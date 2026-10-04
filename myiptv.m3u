@@ -13,6 +13,10 @@ https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
 #EXTINF:-1 channel-id="CA390001798-ca" tvg-id="CA390001798" tvg-chno="2937" tvg-name="The Judge Judy Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA390001798_20260804T050245SQUARE.png" group-title="24/7",The Judge Judy Channel
 https://jmp2.uk/stvp-CA390001798
+
+#EXTINF:-1 channel-id="64305451fc3be5947773c339-6a300b4d50e72a483a631e71" tvg-id="64305451fc3be5947773c339-6a300b4d50e72a483a631e71" tvg-chno="" tvg-name="I Survived…" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0628c3b8-a030-44b3-9c85-fc6db637e07e/I_Survived_1500x1500_channel_logo_wRDX.png" group-title="24/7",I Survived…
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6a300b4d50e72a483a631e71/?X-Plex-Token=5vFg4rw2RVD9YG1VKvqG
+
 #EXTINF:-1  group-title="INTERNATIONAL",Naija Gold Reels
 https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-60e737a4ebef9d002c4d0a0c" tvg-id="647f8d22a2fc3fadb4721685-60e737a4ebef9d002c4d0a0c" tvg-chno="" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="INTERNATIONAL",AfroLandTV
